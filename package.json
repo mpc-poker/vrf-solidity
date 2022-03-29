@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "elliptic-curve-solidity": "0.2.4"
+    "elliptic-curve-solidity": "mpc-poker/elliptic-curve-solidity"
   },
   "devDependencies": {
     "eslint": "7.13.0",
